@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm K. Gowtham 👋
 
-<!--
-**GOWTHAM4747/GOWTHAM4747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student (2025–2029)  
+📘 Branch: ECE – Micro Electronics and Semiconductors  
 
-Here are some ideas to get you started:
+## About Me
+I am a first-year BTech student passionate about learning programming and electronics.  
+Currently, I am focusing on strengthening my fundamentals in the C programming language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C Programming 
+
+## Currently Learning
+- C Language
+- Problem Solving
+- Basics of Data Structures
+
+## Goals
+- Become a skilled software and electronics engineer  
+- Build strong foundations in coding and core engineering concepts  
+
+## Connect With Me
+- GitHub: https://github.com/GOWTHAM4747
